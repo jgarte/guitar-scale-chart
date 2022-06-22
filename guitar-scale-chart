@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
-use List::Util qw(any);
-use List::MoreUtils qw(first_index);
+use List::Util;
+use List::MoreUtils;
 use Term::ANSIColor;
 use strict;
 
